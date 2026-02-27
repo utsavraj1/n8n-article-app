@@ -1,7 +1,8 @@
 # 🧠 n8n Article App
 
-An AI-powered article generation automation built using **n8n**, OpenAI, and workflow integrations.  
-This project automatically generates, formats, and publishes articles using low-code automation.
+The n8n Article App is an AI-powered content automation system that transforms simple prompts into structured, publication-ready articles. Built using **n8n workflow orchestration** and **OpenAI language models**, the platform automates ideation, content generation, SEO optimization, formatting, storage, and distribution.
+
+This project showcases practical implementation of low-code automation, AI integration, and scalable workflow design to create a production-ready content pipeline suitable for blogging platforms, research assistance, and digital marketing operations.
 
 ---
 
@@ -23,17 +24,8 @@ The workflow can:
 ## 🌐 Live Demo / Deploy
 
 👉 **Deploy Link:**  
-https://your-deploy-link.com
+[https://your-deploy-link.com](https://n8n-ai-article-generator.netlify.app/)
 
-Replace with your real deployed URL (Render / Railway / n8n Cloud / VPS)
-
-Example:
-
-- https://n8n-article-app.onrender.com  
-- https://n8n-production.up.railway.app  
-- https://app.n8n.cloud/workflow/xxxx  
-
----
 
 ## ⚙️ Features
 
